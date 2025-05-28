@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Daily Report - {{ $date }}</title>
+    <title>Daily Sales Report - {{ $date }}</title>
     <style>
         body { font-family: DejaVu Sans, sans-serif; font-size: 12px; }
         table { border-collapse: collapse; width: 100%; }
